@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017455608395",
+    "project_id": "noteapp-ee851",
+    "storage_bucket": "noteapp-ee851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017455608395:android:56e6211b88b2f325c003ce",
+        "android_client_info": {
+          "package_name": "com.example.note_with_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmliwm2mnpZ2QOpiZuxUdYDLMJLge2I_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAYUsqml5z3eQzhY6uB6kg3HMLetKsvzbE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1017455608395</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.noteWithFb.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>noteapp-ee851</string>
+	<key>STORAGE_BUCKET</key>
+	<string>noteapp-ee851.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1017455608395:ios:158d6186a304bbefc003ce</string>
+</dict>
+</plist>
